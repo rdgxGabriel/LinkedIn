@@ -1,0 +1,12 @@
+html{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#PERFIL{
+    margin-left: 5%;
+    bottom: 150px;
+    position: fixed;
+    border-radius: 50%;
+}
